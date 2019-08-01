@@ -1,0 +1,23 @@
+{
+  "name": "com-paulmwatson",
+  "version": "1.0.0",
+  "description": "Personal website of Paul Watson at paulmwatson.com.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [
+    "personal",
+    "blog",
+    "website"
+  ],
+  "author": "paul@paulmwatson.com",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^9.0.3",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
